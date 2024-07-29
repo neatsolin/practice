@@ -1,0 +1,140 @@
+/* body{
+    background-color: black;
+}
+p{
+    padding: 10px;
+    
+}
+.heading{
+    border-radius: 7px;
+    border: solid;
+    font-family: sans-serif;
+    background-color: white;
+    width:25%
+    
+}
+.button-1{
+    border: none;
+    background-color:blue;
+    font-family: sans-serif;
+    margin: 5px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    height: ;
+}
+.button-2{
+    border: none;
+    background-color:orange;
+    font-family: sans-serif;
+    margin:5px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.button-3{
+    border: none;
+    background-color:blueviolet;
+    font-family: sans-serif;
+    margin: 5px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    white-s;
+}
+
+ 
+
+ 
+ /* body{
+    background-color: #ccc;
+ }
+ .contaniner{
+    display: flex;
+    justify-content: space-between;
+ }
+.card{
+    width: 30%;
+    background: #fff;
+    padding: 15px;
+    border: 8px;
+    border-radius: 8px;
+
+}
+button{
+    padding: 10px;
+    border: none;
+    
+    color: #fff;
+    border-radius: 40px;
+
+}
+.bth-orange{
+    background: orange;
+}
+.bth-purple{
+    background: purple;
+
+}
+.bth-teal{
+    background: teal;
+}
+.card:hover{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; */
+ 
+.card{
+        width: 15%;
+        background: #0f0f0f;
+        padding: 15px;
+        border: 10px;
+        border-radius: 10px;
+        color: antiquewhite;
+        
+    
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
+.orange{
+    background: orange;
+}
+.blue{
+    background: blue;
+}
+.yellow{
+    background: yellow;
+
+}
+.purple{
+    background: purple;
+
+}
+card:hover{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; 
+     
+} 
+.a{
+    color: orange;
+}
+.b{
+    color: blue;
+}
+.c{
+    color: yellow;
+}
+.d{
+    color: purple;
+}
+
+    
+    
